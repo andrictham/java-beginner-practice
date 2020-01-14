@@ -49,6 +49,11 @@ public class Main {
 
         // Constants using the `final` keyword
         final float PI = 3.14F;
-//        PI = 1; // error, cannot be reassigned
+        // PI = 1; // error, cannot be reassigned
+
+        // Casting number types
+        System.out.println(5/2); // will result in 2
+        double result = (double)5 / (double)2;
+        System.out.println(result); // will result in 2.5
     }
 }
