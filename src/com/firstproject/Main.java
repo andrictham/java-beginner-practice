@@ -47,5 +47,8 @@ public class Main {
         );
             // Arrays are NOT immutable, unlike strings
 
+        // Constants using the `final` keyword
+        final float PI = 3.14F;
+//        PI = 1; // error, cannot be reassigned
     }
 }
