@@ -51,9 +51,16 @@ public class Main {
         final float PI = 3.14F;
         // PI = 1; // error, cannot be reassigned
 
-        // Casting number types
+        // Explicitly casting number types
         System.out.println(5/2); // will result in 2
         double result = (double)5 / (double)2;
         System.out.println(result); // will result in 2.5
+
+        // Implicitly casting
+        // If a data type can be converted into a bigger one
+        // byte > short > int > long
+        short x = 1;
+        int y = x + 2;
+        System.out.println(y); // x is casted into int
     }
 }

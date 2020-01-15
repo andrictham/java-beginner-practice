@@ -55,29 +55,45 @@
       <option name="presentableId" value="Default" />
       <updated>1578615769800</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add example for int to double casting">
+      <created>1579037503174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579037503174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add example for int to double casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add example for int to double casting" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="124" key="CommitChangelistDialog2" timestamp="1579037478579">
+    <state x="0" y="124" key="CommitChangelistDialog2" timestamp="1579037502929">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="0" y="124" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579037478579" />
-    <state width="640" height="295" key="GridCell.Tab.0.bottom" timestamp="1579037432359">
+    <state x="0" y="124" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579037502929" />
+    <state width="552" height="295" key="GridCell.Tab.0.bottom" timestamp="1579125857252">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="640" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579037432359" />
-    <state width="640" height="295" key="GridCell.Tab.0.center" timestamp="1579037432358">
+    <state width="552" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579125857252" />
+    <state width="552" height="295" key="GridCell.Tab.0.center" timestamp="1579125857249">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="640" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579037432358" />
-    <state width="640" height="295" key="GridCell.Tab.0.left" timestamp="1579037432357">
+    <state width="552" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579125857249" />
+    <state width="552" height="295" key="GridCell.Tab.0.left" timestamp="1579125857248">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="640" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579037432357" />
-    <state width="640" height="295" key="GridCell.Tab.0.right" timestamp="1579037432358">
+    <state width="552" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579125857248" />
+    <state width="552" height="295" key="GridCell.Tab.0.right" timestamp="1579125857250">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="640" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579037432358" />
+    <state width="552" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579125857250" />
+    <state x="0" y="265" key="Vcs.Push.Dialog.v2" timestamp="1579037508767">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579037508767" />
     <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1578615776977">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
